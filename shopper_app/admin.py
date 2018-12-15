@@ -1,5 +1,4 @@
 from django.contrib import admin
-
 from .models import Item, GeoLoc, ItemLocation
 
 admin.site.register(Item)
